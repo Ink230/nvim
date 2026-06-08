@@ -1,0 +1,7 @@
+require("ink.ink-config.options")
+require("ink.plugin-setup")
+require("ink.ink-config.remap")
+require("ink.plugin-config.colors")
+require("ink.plugin-config.telescope")
+require("ink.plugin-config.scrollEOF")
+require("ink.lsp")
